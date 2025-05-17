@@ -11,11 +11,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=mahoor13&theme=nord&title=MultiLanguage,LongTimeUser,Commits,Experience,Stars,Repositories,Followers)<br>
 ---
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=mahoor13&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahoor13&layout=compact" />
+  <img height="176" align="left" src="https://github-readme-stats.vercel.app/api?username=mahoor13&count_private=true&include_all_commits=true&theme=vue-dark&hide_border=false&layout=compact" />
+  <img height="176" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahoor13&layout=compact&theme=vue-dark&hide_border=false" />
 </div>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
